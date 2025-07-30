@@ -3,9 +3,23 @@ Olá, me chamo Sócrates!
 Atualmente curso Informática para Internet no IFAC.
 
 # Habilidades
-- Desenvolvimento de aplicações back-end utilizando PDO.
-- Desenvolvimento de artefatos envolvendo tecnologias como Arduino e Lego Mindstorms.
-- Desenvolvimento de interfaces web utilizando Bootstrap.
+## Desenvolvimento Back-end
+- PHP;
+- PDO (PHP Data Objects);
+- Desenvolvimento de APIs baseadas no protocolo HTTP;
+- Design Patterns:
+  - Table Data Gateway;
+  - Row Data Gateway.
+## Desenvolvimento Front-end
+- HTML5;
+- CSS3;
+- JavaScript;
+- TypeScript;
+- jQuery;
+- Bootstrap.
+## Desenvolvimento de Sistemas Embarcados
+- Arduino
+- Lego EV3 mindstorms
 
 # Objetivos
 - Se formar em Ciências da Computação.
