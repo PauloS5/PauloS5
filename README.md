@@ -6,10 +6,12 @@ Atualmente curso Informática para Internet no IFAC.
 ## Desenvolvimento Back-end
 - PHP;
 - PDO (PHP Data Objects);
-- Desenvolvimento de APIs baseadas no protocolo HTTP;
+- Desenvolvimento de APIs REST;
 - Design Patterns:
   - Table Data Gateway;
   - Row Data Gateway.
+  - Active Recording
+  - Data Mapper
 ## Desenvolvimento Front-end
 - HTML5;
 - CSS3;
