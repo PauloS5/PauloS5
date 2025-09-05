@@ -66,16 +66,17 @@ Atualmente também estou realizando o curso de **Desenvolvimento Web Full-stack*
 ---
 
 ## 🎯 Objetivos
-- Concluir a graduação em **Ciências da Computação**
-- Trabalhar como **desenvolvedor back-end**
-- Ministrar **aulas de informática** em algum momento da vida
 
+- 🎓 Graduar-se em **Ciências da Computação**  
+- 💼 Trabalhar como **desenvolvedor back-end**
+  
 ---
 
 ## 🧠 Curiosidades
-- Minha linguagem favorita é **C**
-- A linguagem que eu mais domino é **PHP**
-- Adoro estudar programação do ponto de vista **teórico**
+
+- ❤️ Minha linguagem favorita é **C**  
+- 🐘 A linguagem que eu mais domino é **PHP**  
+- 📚 Adoro estudar programação do ponto de vista **teórico** e **Baixo Nível**
 
 ---
 
